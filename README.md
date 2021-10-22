@@ -1,6 +1,3 @@
-# hello-world
+# Transfer Learning to Classified Flores
 
-Hi Humans!
-
-Hubot here, I like Node.js and Coffescriot (that is what I made of!).
-I have had tacos on the moon and find them far superior to Earth tacos.
+Se trabajo con el data set Flores para la clasificación en 5 tipos de imagénges.
